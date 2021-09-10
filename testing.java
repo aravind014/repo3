@@ -2,3 +2,6 @@
 
  echo "enter your name"
 exit
+
+hii
+
